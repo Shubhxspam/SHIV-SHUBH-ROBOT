@@ -90,8 +90,8 @@ buttons = [
         InlineKeyboardButton(text="• ᴀʙᴏᴜᴛ •", callback_data="mukesh_"),
     ],
     [
-        InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇ •", url=f"https://t.me/SHIVANSH474"),
-        InlineKeyboardButton(text="• ꜱᴜᴘᴘᴏʀᴛ •", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇ •", url=f"https://t.me/Mrpasserby_1227"),
+        InlineKeyboardButton(text="• ꜱᴜᴘᴘᴏʀᴛ •", url=f"https://t.me/Seethistoknow"),
     ],
     [
         InlineKeyboardButton(text="• ʜᴇʟᴘ ᴀɴᴅ ᴄᴏᴍᴍᴀɴᴅs •", callback_data="Main_help"),
@@ -102,8 +102,8 @@ buttons = [
 
 roy = [
     [
-        InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇ •", url=f"https://t.me/SHIVANSH474"),
-        InlineKeyboardButton(text="• ꜱᴜᴘᴘᴏʀᴛ •", url=f"https://t.me/{SUPPORT_CHAT}"),
+        InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇ •", url=f"https://t.me/Mrpasserby_1227"),
+        InlineKeyboardButton(text="• ꜱᴜᴘᴘᴏʀᴛ •", url=f"https://t.me/seethistoknow"),
     ],
     [
         InlineKeyboardButton(
@@ -352,7 +352,7 @@ def help_button(update, context):
                 parse_mode=ParseMode.MARKDOWN,
 
                 reply_markup=InlineKeyboardMarkup(
-                    [[InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="help_back"),InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", callback_data="mukesh_support")]]
+                    [[InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="help_back"),InlineKeyboardButton(text="sᴜᴘᴘᴏʀᴛ", callback_data="Mrpasserby_1227")]]
                 ),
             )
 
@@ -413,7 +413,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                         InlineKeyboardButton(
                             text="ʜᴇʟᴘ ᴍᴇɴᴜ", callback_data="Main_help"
                         ),
-                        InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇs •", url="https://t.me/SHIVANSH474"),
+                        InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇs •", url="https://t.me/Mrpasserby_1227),
                     ],
                     [
                         InlineKeyboardButton(text="• ʜᴏᴍᴇ •", callback_data="mukesh_back"),
@@ -429,10 +429,10 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                 [
                     [
                         InlineKeyboardButton(
-                            text="• ꜱᴜᴘᴘᴏʀᴛ •", url=f"https://t.me/{SUPPORT_CHAT}"
+                            text="• ꜱᴜᴘᴘᴏʀᴛ •", url=f"https://t.me/Mrpasserby_1227"
                         ),
                         InlineKeyboardButton(
-                            text="• ᴜᴘᴅᴀᴛᴇ •", url=f"https://t.me/SHIVANSH474"
+                            text="• ᴜᴘᴅᴀᴛᴇ •", url=f"https://t.me/Mrpasserby_1227"
                         ),
                     ],
                     [
@@ -1045,9 +1045,9 @@ def donate(update: Update, context: CallbackContext):
             DONATE_STRING, parse_mode=ParseMode.MARKDOWN, disable_web_page_preview=True
         )
 
-        if OWNER_ID != 6762113050:
+        if OWNER_ID != 2047725696:
             update.effective_message.reply_text(
-                f"๏ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴩᴇʀ ᴏғ {dispatcher.bot.first_name} sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ɪs [ɢɪᴛʜᴜʙ](https://t.me/SHIVANSH474)"
+                f"๏ ᴛʜᴇ ᴅᴇᴠᴇʟᴏᴩᴇʀ ᴏғ {dispatcher.bot.first_name} sᴏᴜʀᴄᴇ ᴄᴏᴅᴇ ɪs [ɢɪᴛʜᴜʙ](https://t.me/Mrpasserby_1227)"
                 f"\n\n๏ ʙᴜᴛ ʏᴏᴜ ᴄᴀɴ ᴀʟsᴏ ᴅᴏɴᴀᴛᴇ ᴛᴏ ᴛʜᴇ ᴩᴇʀsᴏɴ ᴄᴜʀʀᴇɴᴛʟʏ ʀᴜɴɴɪɴɢ ᴍᴇ : [ʜᴇʀᴇ]",
                 parse_mode=ParseMode.MARKDOWN,
 
@@ -1097,7 +1097,7 @@ def main():
                     [
                         InlineKeyboardButton(
                             text="• ᴀᴅᴅ ᴍᴇ ʙᴀʙʏ •",
-                            url="https://t.me/StrangerSuperbot?startgroup=true"
+                            url="https://t.me/seethistoknow?startgroup=true"
                             )
                        ]
                 ]
@@ -1110,7 +1110,7 @@ def main():
                 caption=f"""
 ✦ㅤ{BOT_NAME} ɪs ᴀʟɪᴠᴇ ʙᴀʙʏ ✦
      •────────────────────•
-**❅ ᴍᴀᴅᴇ ʙʏ ➛ [sʜɪᴠᴀɴsʜ-xᴅ](https://t.me/SHIVANSH474)**
+**❅ ᴍᴀᴅᴇ ʙʏ ➛ [Shubh](https://t.me/Mrpasserby_1227)**
 **❅ ᴘʏᴛʜᴏɴ ᴠᴇʀsɪᴏɴ ➛** `{y()}`
 **❅ ʟɪʙʀᴀʀʏ ᴠᴇʀsɪᴏɴ ➛** `{telever}`
 **❅ ᴛᴇʟᴇᴛʜᴏɴ ᴠᴇʀsɪᴏɴ ➛** `{tlhver}`
