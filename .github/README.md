@@ -1,5 +1,5 @@
 <h2 align="center">
-    ─「 𝐌ᴇʟᴀɴɪᴀ 𝘅 𝐑ᴏʙᴏᴛ 」─
+    ─「 𝐒𝐧𝐞𝐡𝐚 𝘅 𝐑ᴏʙᴏᴛ 」─
 
 </h2>
 
@@ -35,10 +35,10 @@
 
 
 <p align="center">
-<a href="https://telegram.me/SHIVANSH39"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗦𝗛𝗜𝗩𝗔𝗡𝗦𝗛%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Mrpasserby_1227"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐒𝐇𝐔𝐁𝐇%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <p align="center">
-<a href="https://telegram.me/ITSZ_SHIVANSH"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝗦𝗛𝗨𝗞𝗟𝗔%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="https://telegram.me/Mrpasserby_1227"><img src="https://img.shields.io/badge/-☆𝐃𝐌 𝐓𝐎 𝐒𝐇𝐔𝐁𝐇%20☆-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 <h3 align="center">
     ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʟᴏᴄᴀʟ ʜᴏsᴛ/ ᴠᴘs 」─
@@ -72,4 +72,4 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 - For getting out from tmux session : Press `Ctrl+b` and then `d`<br>
 ━━━━━━━━━━━━━━━━━━━━
 ### Contact :
-<a href="https://t.me/SHIVANSH474"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
+<a href="https://t.me/Mrpasserby_1227"><img title="Telegram" src="https://img.shields.io/badge/Telegram-%23000000.svg?&style=for-the-badge&logo=telegram&logoColor=61DAFB"></a>
