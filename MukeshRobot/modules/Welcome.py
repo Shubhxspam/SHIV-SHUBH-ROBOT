@@ -1,4 +1,4 @@
-#<<<<<<<<<<<<<<@SHIVANSH474>>>>>>>>>>>>>>#
+#<<<<<<<<<<<<<<@Seethistoknow>>>>>>>>>>>>>>#
 #<<<<<<<<<<<<<<Give<CredYt<Else>You>Chutiya>>>>>>>>>>>>>>#
 import os
 from PIL import ImageDraw, Image, ImageFont, ImageChops
@@ -100,7 +100,7 @@ async def greet_group(_, member: ChatMemberUpdated):
 **☉ ɴᴀᴍᴇ ⧽** {user.mention}
 **☉ ɪᴅ ⧽** `{user.id}`
 **☉ ᴜ_ɴᴀᴍᴇ ⧽** @{user.username}
-**☉ ᴍᴀᴅᴇ ʙʏ ⧽** [sᴛʀᴀɴɢᴇʀ](https://t.me/SHIVANSH474)**
+**☉ ᴍᴀᴅᴇ ʙʏ ⧽** [𝐒𝐡𝐮𝐛𝐡](https://t.me/Mrpasserby_1227)**
 
 **▬▭▬▭▬▭▬▭▬▭▬▭▬▭▬**
 
