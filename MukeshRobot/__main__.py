@@ -413,7 +413,7 @@ def Mukesh_about_callback(update: Update, context: CallbackContext):
                         InlineKeyboardButton(
                             text="ʜᴇʟᴘ ᴍᴇɴᴜ", callback_data="Main_help"
                         ),
-                        InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇs •", url="https://t.me/Mrpasserby_1227),
+                        InlineKeyboardButton(text="• ᴜᴘᴅᴀᴛᴇs •", url="https://t.me/Mrpasserby_1227"),
                     ],
                     [
                         InlineKeyboardButton(text="• ʜᴏᴍᴇ •", callback_data="mukesh_back"),
