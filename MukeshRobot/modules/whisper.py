@@ -10,10 +10,10 @@ logging.basicConfig(level=logging.INFO)
 
 db = {}
 
-@bot.on(events.NewMessage(pattern=f"^[!?@/]({BOT_USERNAME} | wspr)$"))
+@bot.on(events.NewMessage(pattern=f"^[!?@/](Snehaxprobot | wspr)$"))
 async def stsrt(event):
     await event.reply(
-            f"**❍ ʜᴇʏ, ɪ ᴀᴍ ᴀ ᴡʜɪsᴘᴇʀ ʙᴏᴛ ғᴜɴᴄᴛɪᴏɴ ғᴏʀ @{BOT_USERNAME} !**",
+            f"**❍ ʜᴇʏ, ɪ ᴀᴍ ᴀ ᴡʜɪsᴘᴇʀ ʙᴏᴛ ғᴜɴᴄᴛɪᴏɴ ғᴏʀ @Snehaxprobot !**",
             buttons=[
                 [Button.switch_inline("ɢᴏ ɪɴʟɪɴᴇ", query="")]
                 ]
@@ -27,8 +27,8 @@ async def die(event):
     me = (await bot.get_me()).username
     dn = event.builder.article(
             title="❍ ɪᴛ's ᴀ ᴡʜɪsᴘᴇʀ ʙᴏᴛ !",
-            description=f"❍ ᴡʜɪsᴘᴇʀ ʙᴏᴛ ғᴜɴᴄᴛɪᴏɴ ғᴏʀ @{BOT_USERNAME} !",
-            text=f"**❍ ɪᴛ's ᴀ ᴡʜɪsᴘᴇʀ ʙᴏᴛ**\n❍ `@{me} ᴡsᴘʀ ᴜsᴇʀɴᴀᴍᴇ|ᴍᴇssᴀɢᴇ`",
+            description=f"❍ ᴡʜɪsᴘᴇʀ ʙᴏᴛ ғᴜɴᴄᴛɪᴏɴ ғᴏʀ @Snehaxprobot !",
+            text=f"**❍ ɪᴛ's ᴀ ᴡʜɪsᴘᴇʀ ʙᴏᴛ**\n❍ `@Snehaxprobot ᴡsᴘʀ ᴜsᴇʀɴᴀᴍᴇ|ᴍᴇssᴀɢᴇ`",
             buttons=[
                 [Button.switch_inline(" ɢᴏ ɪɴʟɪɴᴇ ", query="wspr ")]
                 ]
@@ -44,7 +44,7 @@ async def inline(event):
     except IndexError:
         await event.answer(
                 [], 
-                switch_pm=f"@{me} [Username]|[Message]",
+                switch_pm=f"@snehaxprobot [Username]|[Message]",
                 switch_pm_param="ᴡʜɪsᴘᴇʀ"
                 )
     except ValueError:
@@ -99,8 +99,8 @@ async def ws(event):
 __help__ = """
 ✿ *ᴡʜɪsᴘᴇʀ ɪɴʟɪɴᴇ ғᴜɴᴄᴛɪᴏɴ ғᴏʀ sᴇᴄʀᴇᴛ ᴄʜᴀᴛs* ✿
 
-๏ @StrangerSuperbot ʏᴏᴜʀ ᴍᴇssᴀɢᴇ @username
-๏ @StrangerSuperbot @username ʏᴏᴜʀ ᴍᴇssᴀɢᴇ
+๏ @Snehaxprobot ʏᴏᴜʀ ᴍᴇssᴀɢᴇ @username
+๏ @Snehaxprobot @username ʏᴏᴜʀ ᴍᴇssᴀɢᴇ
 """
 
 __mod_name__ = "ᴡʜɪsᴘᴇʀ"
