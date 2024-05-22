@@ -15,7 +15,7 @@ class Config(object):
     MONGO_DB_URI= ""
     # RECOMMENDED
 BOT_USERNAME = getenv("BOT_USERNAME" , "PoliceBot")
-    DATABASE_URL = getenv("DATABASE_URL"," postgres://oaykvtmj:bsIGPV7wmId1x1CNH9eqxQVX5t25cHI3@manny.db.elephantsql.com/oaykvtmj")
+    DATABASE_URL = getenv("DATABASE_URL", " postgres://u7et2dia9ob2hs:pf5ced8738856067d83f8e130a4ca0c79937a789a9864a7f9909b3e7bffda2de1@caij57unh724n3.cluster-czrs8kj4isg7.us-east-1.rds.amazonaws.com:5432/d13mnfmj8iilnh")
     CASH_API_KEY = (
         ""  # Get your API key from https://www.alphavantage.co/support/#api-key
     )
